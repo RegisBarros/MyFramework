@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework.SmtpServer", "src\MyFramework.SmtpServer\MyFramework.SmtpServer.csproj", "{C47F1771-8699-4B78-9B11-093451762681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework.Logger", "src\MyFramework.Logger\MyFramework.Logger.csproj", "{B62604DA-4D44-4BD3-9053-BA8E0BE8BECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47F1771-8699-4B78-9B11-093451762681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47F1771-8699-4B78-9B11-093451762681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47F1771-8699-4B78-9B11-093451762681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47F1771-8699-4B78-9B11-093451762681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62604DA-4D44-4BD3-9053-BA8E0BE8BECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62604DA-4D44-4BD3-9053-BA8E0BE8BECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62604DA-4D44-4BD3-9053-BA8E0BE8BECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62604DA-4D44-4BD3-9053-BA8E0BE8BECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7535AB-4CA8-42F4-837B-5CAD896C78A1}
+	EndGlobalSection
+EndGlobal
