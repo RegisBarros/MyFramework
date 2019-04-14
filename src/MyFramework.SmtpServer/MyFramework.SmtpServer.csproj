@@ -11,4 +11,8 @@
     <Company>Barros Co.</Company>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Sendgrid" Version="9.10.0" />
+  </ItemGroup>
+
 </Project>
